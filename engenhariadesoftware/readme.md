@@ -28,3 +28,137 @@ O trecho destaca a importância de enxergar o desenvolvimento de software de for
 
 3. **Código Legível vs. Performance Extrema**  
    Em algumas situações, otimizações para aumentar o desempenho podem tornar o código mais difícil de entender e manter. Desenvolvedores muitas vezes precisam decidir entre escrever um código mais claro e sustentável ou otimizar ao máximo para ganhos de performance.
+
+## 4 - Diagrama UML
+<img src="diagrama.png" alt="Diagrama" width="400">
+
+## 5 - Classes em java
+Classe Veterinario:
+```java
+// Classe Veterinario
+public class Veterinario {
+    private String nome;
+    private String telefone;
+    private String email;
+    private String especialidade;
+
+    public Veterinario(String nome, String telefone, String email, String especialidade) {
+        this.nome = nome;
+        this.telefone = telefone;
+        this.email = email;
+        this.especialidade = especialidade;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setTelefone(String telefone) {
+        this.telefone = telefone;
+    }
+
+    public void setEmail(String email) {
+        this.email = email;
+    }
+
+    public void setEspecialidade(String especialidade) {
+        this.especialidade = especialidade;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public String getTelefone() {
+        return telefone;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public String getEspecialidade() {
+        return especialidade;
+    }
+}
+```
+Classe Animal:
+```java
+// Classe Animal
+public class Animal {
+    private String nome;
+    private String tipo;
+    private String raca;
+    private String idade;
+    private String peso;
+    private String sexo;
+    private Veterinario responsavel; // Associação com Veterinario
+
+    public Animal(String nome, String tipo, String raca, String idade, String peso, String sexo, Veterinario responsavel) {
+        this.nome = nome;
+        this.tipo = tipo;
+        this.raca = raca;
+        this.idade = idade;
+        this.peso = peso;
+        this.sexo = sexo;
+        this.responsavel = responsavel;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
+    }
+
+    public void setRaca(String raca) {
+        this.raca = raca;
+    }
+
+    public void setIdade(String idade) {
+        this.idade = idade;
+    }
+
+    public void setPeso(String peso) {
+        this.peso = peso;
+    }
+
+    public void setSexo(String sexo) {
+        this.sexo = sexo;
+    }
+
+    public void setResponsavel(Veterinario responsavel) {
+        this.responsavel = responsavel;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public String getTipo() {
+        return tipo;
+    }
+
+    public String getRaca() {
+        return raca;
+    }
+
+    public String getIdade() {
+        return idade;
+    }
+
+    public String getPeso() {
+        return peso;
+    }
+
+    public String getSexo() {
+        return sexo;
+    }
+
+    public Veterinario getResponsavel() {
+        return responsavel;
+    }
+}
+
+```
