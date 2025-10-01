@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lista de Animais</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.2.1/dist/axios.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <h1>Lista de Animais</h1>
+            <button onclick="document.getElementById('id01').style.display='block'" class="btn btn-info">Adcionar +</button>
+            <div class="w3-container">
+              
+                <div id="id01" class="w3-modal">
+                  <div class="w3-modal-content">
+                    <div class="w3-container">
+                      <span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright">&times;</span>
+                      <h2>Adicionar um novo animal</h2>
+
+                      <div>
+                        <div class="form-group">
+                          <label for="exampleInputEmail1">ID do animal</label>
+                          <input type="text" class="form-control" id="inputID" disabled="true">
+                            <div class="form-group">
+                              <label for="exampleInputEmail1">Nome do animal</label>
+                              <input type="text" class="form-control" id="nomeAnimal" aria-describedby="emailHelp" placeholder="Nome">
+                            </div>
+                        <button id="submitBtn" class="btn btn-primary">Adicionar</button>
+                          </div>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+        </nav>
+        
+    </header>
+
+   
+
+    <main class="jumbotron">
+        
+        <ul id="animal-list">
+       
+        </ul>
+    </main>
+    
+</body>
+<script src="index.js"></script>
+</html>
