@@ -29,12 +29,12 @@ Além disso, a ausência de um sistema estruturado para acompanhamento de skills
 A solução desenvolvida foi uma plataforma web voltada para o gerenciamento de skills internas dos colaboradores, permitindo centralizar informações relacionadas às competências profissionais da equipe.
 
 O sistema possibilita:
-- Cadastro e gerenciamento de colaboradores;
-- Associação de habilidades técnicas e comportamentais;
-- Sistema de comentários e feedbacks internos;
-- Indicações e recomendações entre colaboradores;
-- Visualização e análise de dados relacionados às competências da equipe;
-- Organização das informações de maneira acessível e estratégica.
+- Cadastro e gerenciamento de colaboradores
+- Associação de habilidades técnicas e comportamentais
+- Sistema de comentários e feedbacks internos
+- Indicações e recomendações entre colaboradores
+- Visualização e análise de dados relacionados às competências da equipe
+- Organização das informações de maneira acessível e estratégica
 
 A proposta da plataforma foi transformar dados dispersos em informações úteis para apoio à gestão de pessoas, facilitando a identificação de competências dentro da organização.
 
@@ -43,22 +43,21 @@ A proposta da plataforma foi transformar dados dispersos em informações úteis
 ## Tecnologias Utilizadas
 
 ### Back-end
-- Java — desenvolvimento da aplicação back-end;
-- Spring Boot — criação da API REST e gerenciamento da aplicação;
-- Spring Security — autenticação e controle de acesso;
-- Hibernate — persistência de dados e ORM;
-- MySQL — armazenamento das informações do sistema;
-- Maven — gerenciamento de dependências.
+- Java — faço com Autonomia
+- Spring Boot — faço com Autonomia
+- Spring Security — faço com Auxilio
+- Hibernate — faço com Auxilio
+- MySQL — faço com Autonomia
 
 ### Front-end
-- React — construção da interface da aplicação;
-- TypeScript — tipagem e maior segurança no desenvolvimento;
-- Tailwind CSS — estilização da interface;
+- React — faço com Auxilio
+- TypeScript — faço com Auxilio
+- Tailwind CSS — faço com Auxilio
 
 ### Ferramentas e Metodologias
-- Git e GitHub — versionamento e colaboração;
-- Metodologia ágil para organização das entregas;
-- Desenvolvimento colaborativo em equipe.
+- Git e GitHub — faço com Autonomia
+- Metodologia ágil para organização das entregas
+- Desenvolvimento colaborativo em equipe
 
 ---
 
@@ -74,29 +73,29 @@ Durante o desenvolvimento, contribui na organização técnica do projeto, resol
 
 ## Hard Skills
 
-- Desenvolvimento de APIs REST;
-- Modelagem de banco de dados relacional;
-- Integração entre front-end e back-end;
-- Programação orientada a objetos;
-- Autenticação e controle de acesso;
-- Versionamento com Git e GitHub;
-- Desenvolvimento com Java e Spring Boot;
-- Consumo de APIs HTTP;
-- Estruturação de aplicações web modernas;
-- Manipulação e persistência de dados com MySQL.
+- Desenvolvimento de APIs REST
+- Modelagem de banco de dados relacional
+- Integração entre front-end e back-end
+- Programação orientada a objetos
+- Autenticação e controle de acesso
+- Versionamento com Git e GitHub
+- Desenvolvimento com Java e Spring Boot
+- Consumo de APIs HTTP
+- Estruturação de aplicações web modernas
+- Manipulação e persistência de dados com MySQL
 
 ---
 
 ## Soft Skills
 
-- Trabalho em equipe;
-- Comunicação entre desenvolvedores;
-- Organização e divisão de tarefas;
-- Resolução de problemas;
-- Capacidade analítica;
-- Adaptabilidade durante o desenvolvimento;
-- Colaboração em ambiente ágil;
-- Pensamento crítico para definição de soluções técnicas.
+- Trabalho em equipe
+- Comunicação entre desenvolvedores
+- Organização e divisão de tarefas
+- Resolução de problemas
+- Capacidade analítica
+- Adaptabilidade durante o desenvolvimento
+- Colaboração em ambiente ágil
+- Pensamento crítico para definição de soluções técnicas
 
 ---
 
