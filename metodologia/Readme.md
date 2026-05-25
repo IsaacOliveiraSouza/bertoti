@@ -2,9 +2,9 @@
 
 ## Sobre Mim
 
-Meu nome é Isaac Oliveira, sou estudante de Desenvolvimento de Software Multiplataforma na FATEC e atuo na área de desenvolvimento de software, com foco principalmente em aplicações back-end e integração de sistemas.
+Meu nome é Isaac Oliveira, sou estudante de banco de Dados na FATEC e atuo na área de desenvolvimento de software ERP, com foco principalmente em aplicações back-end e integração de sistemas.
 
-Tenho experiência no desenvolvimento de aplicações web utilizando tecnologias como Java, Spring Boot, React, TypeScript e bancos de dados relacionais. Ao longo da minha trajetória acadêmica e profissional, venho desenvolvendo projetos voltados para resolução de problemas reais, aplicando conceitos de arquitetura de software, APIs REST, modelagem de dados e desenvolvimento colaborativo.
+Tenho experiência no desenvolvimento de aplicações web utilizando tecnologias como Java, Spring Boot, PHP, ADVPL e bancos de dados relacionais. Ao longo da minha trajetória acadêmica e profissional, venho desenvolvendo projetos voltados para resolução de problemas reais, aplicando conceitos de arquitetura de software, APIs REST, modelagem de dados e desenvolvimento colaborativo.
 
 Busco constantemente evoluir minhas habilidades técnicas e interpessoais, valorizando boas práticas de desenvolvimento, organização de código, trabalho em equipe e aprendizado contínuo.
 
